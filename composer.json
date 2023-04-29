@@ -1,0 +1,28 @@
+{
+  "name": "polon/router",
+  "description": "A classic Polon Router is easy, fast and extremely uncomplicated. Create and manage your routes in minutes!",
+  "keywords": [
+    "Polon",
+    "Polon",
+    "Router",
+    "Route",
+    "Routes"
+  ],
+  "homepage": "http://www.polon.digital",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Victor",
+      "email": "polon@polon.digital",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Polon\\Router\\": "src"
+    }
+  }
+}
